@@ -11,6 +11,7 @@
 		96D1300629A2764200476913 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D1300529A2764200476913 /* ContentView.swift */; };
 		96D1300829A2764300476913 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96D1300729A2764300476913 /* Assets.xcassets */; };
 		96D1300B29A2764300476913 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96D1300A29A2764300476913 /* Preview Assets.xcassets */; };
+		96D1301229A276D500476913 /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D1301129A276D500476913 /* ImagePickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		96D1300529A2764200476913 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		96D1300729A2764300476913 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96D1300A29A2764300476913 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		96D1301129A276D500476913 /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				96D1300329A2764200476913 /* MyCameraApp.swift */,
 				96D1300529A2764200476913 /* ContentView.swift */,
+				96D1301129A276D500476913 /* ImagePickerView.swift */,
 				96D1300729A2764300476913 /* Assets.xcassets */,
 				96D1300929A2764300476913 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96D1300629A2764200476913 /* ContentView.swift in Sources */,
+				96D1301229A276D500476913 /* ImagePickerView.swift in Sources */,
 				96D1300429A2764200476913 /* MyCameraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
